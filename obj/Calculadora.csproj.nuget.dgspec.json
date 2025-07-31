@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesenvolvimentoSistema\\Calculadora\\Calculadora.csproj": {}
+    "C:\\DesenvolvimentoSistema\\calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\DesenvolvimentoSistema\\Calculadora\\Calculadora.csproj": {
+    "C:\\DesenvolvimentoSistema\\calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesenvolvimentoSistema\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\DesenvolvimentoSistema\\calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "C:\\DesenvolvimentoSistema\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\DesenvolvimentoSistema\\calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\gustavo.ssouza55\\.nuget\\packages\\",
-        "outputPath": "C:\\DesenvolvimentoSistema\\Calculadora\\obj\\",
+        "outputPath": "C:\\DesenvolvimentoSistema\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
